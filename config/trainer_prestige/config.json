@@ -1,0 +1,17 @@
+{
+  "showTitleInChat": false,
+  "showTitleInTab": false,
+  "showTitleInNameplateFallback": false,
+  "enableClientNameplateRendering": false,
+  "allowSecretTitles": true,
+  "announceUnlocksGlobally": false,
+  "autoEquipFirstTitle": true,
+  "defaultTitle": "novato",
+  "tabDisplayMode": "DISABLED",
+  "tabTitleDisplay": "COMPACT",
+  "titleDisplayStyle": "TEXT",
+  "nameplateRenderDistance": 0,
+  "specialOwnershipScanIntervalSeconds": 60,
+  "hideTitleWhenSneaking": false,
+  "requireCobblemon": false
+}

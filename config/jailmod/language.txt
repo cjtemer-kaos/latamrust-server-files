@@ -1,0 +1,13 @@
+jail_player=You have been jailed for {time} seconds! Reason: {reason}
+bucket_use_denied=You cannot use lava or water buckets while in jail!
+block_break_denied=You cannot break blocks while in jail!
+jail_broadcast={player} has been jailed for {time} seconds. Reason: {reason}
+unjail_player_auto=You have been released after serving your sentence.
+jail_info_message=You are in jail for another {time} seconds. Reason: {reason}.
+unjail_broadcast_auto={player} has been released after serving their sentence.
+item_use_denied=You cannot use items while in jail!
+unjail_broadcast_manual={player} has been manually released from jail!
+entity_interaction_denied=You cannot interact with entities while in jail!
+not_in_jail_message=You are not in jail!
+unjail_player_manual=You have been manually released from jail!
+block_interaction_denied=You cannot interact with blocks while in jail!

@@ -1,0 +1,59 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 2,
+  "defaultStyle": {
+    "displayName": "${vanillaDisplayName}",
+    "chat": "<gray>${player}</gray>: ${message}",
+    "join": "<yellow><lang:multiplayer.player.joined:'${player}'>",
+    "left": "<yellow><lang:multiplayer.player.left:'${player}'>",
+    "death": "${default_message}",
+    "sayCommand": "<red>[${player}] ${message}",
+    "meCommand": "<green>* ${player} ${message}"
+  },
+  "permissionStyles": [
+    {
+      "permission": "group.admin",
+      "opLevel": 5,
+      "style": {
+        "displayName": "<red><bold>[ADMIN]</bold></red> <rainbow>${vanillaDisplayName}</rainbow>",
+        "chat": "<red><bold>[ADMIN]</bold></red> <rainbow>${player}</rainbow>: ${message}"
+      }
+    },
+    {
+      "permission": "group.builder",
+      "opLevel": 5,
+      "style": {
+        "displayName": "<aqua><bold>[BUILDER]</bold></aqua> <aqua>${vanillaDisplayName}</aqua>",
+        "chat": "<aqua><bold>[BUILDER]</bold></aqua> <aqua>${player}</aqua>: ${message}"
+      }
+    },
+    {
+      "permission": "group.staff+",
+      "opLevel": 5,
+      "style": {
+        "displayName": "<gold><bold>[STAFF+]</bold></gold> <rainbow>${vanillaDisplayName}</rainbow>",
+        "chat": "<gold><bold>[STAFF+]</bold></gold> <rainbow>${player}</rainbow>: ${message}"
+      }
+    },
+    {
+      "permission": "group.staff",
+      "opLevel": 5,
+      "style": {
+        "displayName": "<blue><bold>[STAFF]</bold></blue> <rainbow>${vanillaDisplayName}</rainbow>",
+        "chat": "<blue><bold>[STAFF]</bold></blue> <rainbow>${player}</rainbow>: ${message}"
+      }
+    },
+    {
+      "permission": "group.vip",
+      "opLevel": 5,
+      "style": {
+        "displayName": "<green><bold>[VIP]</bold></green> <green>${vanillaDisplayName}</green>",
+        "chat": "<green><bold>[VIP]</bold></green> <green>${player}</green>: ${message}"
+      }
+    }
+  ],
+  "legacyChatFormatting": true,
+  "parseLinksInChat": true,
+  "enableMarkdown": true,
+  "formattingInPrivateMessages": true,
+  "formattingInTeamMessages": true
+}

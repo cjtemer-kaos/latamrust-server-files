@@ -1,0 +1,9 @@
+# Large files to handle separately
+mods/Cobblemon-fabric-1.7.3+1.21.1.jar
+resourcepacks/COBBLEVERSE Soundtrack.zip
+resourcepacks/JigglyRadio.zip
+world/
+
+# Temp
+*.tmp
+*.log

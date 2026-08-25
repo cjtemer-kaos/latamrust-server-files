@@ -1,0 +1,17 @@
+{
+  "requireOp": true,
+  "allowSurvival": false,
+  "randomizeIntensity": "mild",
+  "randomizeSeedOverride": -1,
+  "enableBlockEditor": true,
+  "enableMobEditor": true,
+  "enableItemEditor": true,
+  "enablePlayerEditor": true,
+  "enableRandomize": true,
+  "enablePropagate": true,
+  "enablePresets": true,
+  "blacklist": [],
+  "maxScaleCap": 100.0,
+  "persistChangesOnRestart": false,
+  "confirmPropagate": true
+}

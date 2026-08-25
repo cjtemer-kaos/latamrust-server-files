@@ -1,0 +1,491 @@
+{
+  "enabled": true,
+  "defaultViewDistance": 48.0,
+  "defaultRefreshIntervalSeconds": 5,
+  "renderMode": "auto",
+  "holograms": {
+    "zonainfo": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 759.4740952198459,
+      "y": 82.0,
+      "z": 1059.4795922690087,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&6&l✦ &e&lBIENVENIDO, ENTRENADOR &6&l✦",
+        "&fAquí comienza tu aventura.",
+        "&fEsta es la &e&lZONA DE INFORMACIÓN&f,",
+        "&c&l◉━━━━━━━━&8&l●&f&l━━━━━━━━&c&l◉",
+        "&fInformación sobre el servidor:",
+        "&fdividida en diferentes secciones.",
+        "&c&l◉━━━━━&8&l●&f&l━━━━━&c&l◉",
+        "&3&l◀ IZQUIERDA &b&lMINECRAFT",
+        "&fInformación relacionada con &aMinecraft&7.",
+        "&c&l◉━━━━━━━━&8&l●&f&l━━━━━━━━&c&l◉",
+        "&5&lDERECHA ▶ &d&lCOBBLEVERSE",
+        "",
+        "&fDescubre información sobre el mundo Pokémon.",
+        "&c&l◉━━━━━&8&l●&f&l━━━━━&c&l◉",
+        "&6&l▲ FRENTE &e&lNOVEDADES",
+        "",
+        "&fEsta sección se actualizará según las circunstancias del servidor:",
+        "&c&l◉━━━━━━━━&8&l●&f&l━━━━━━━━&c&l◉",
+        "&6&lEVENTOS &7• &b&lNOTICIAS &7• &a&lNOVEDADES",
+        "",
+        "",
+        "&6&l✦ &a&l¡Explora, &b&lcaptura &f&ly &6&ldisfruta! &6&l✦\n"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.6,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "zonacria": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 1012.6921528238784,
+      "y": 74.5932353000621,
+      "z": 982.5600174636079,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&d&LZONA DE CRIANZA...\n&7-----\n🌿&6¿Cómo criar Pokémon?\n\n&fColoca un Pasture Block, mete dentro 2 Pokémon compatibles y asegúrate de que la reproducción esté activada.\n\nDespués solo tienes que esperar. Si son compatibles, aparecerá un huevo en el nido del Pasture Block. 🐣✨  "
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "castillo": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 889.4337354119208,
+      "y": 79.16924829622417,
+      "z": 1075.469699701176,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&f&LO&4&LWNER &fHC4STILLO"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "kaos": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 890.5312136179746,
+      "y": 78.15814676123665,
+      "z": 1072.4850646537973,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&c&lADMIN &fKAOS__MCS"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "roben": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 890.5064334552825,
+      "y": 77.49272172525708,
+      "z": 1070.5049844825903,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&c&LADMIN &fRobben_"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "leftor": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 886.4741614697714,
+      "y": 78.15814676123665,
+      "z": 1076.4782085752322,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&6&LSTAFF&e&l+ &fLeftor_"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "jhon": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 884.4165846551145,
+      "y": 77.15814676123665,
+      "z": 1076.416607614213,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&a&lBUILDER &fJhonSai"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "protecciones": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 870.3000000119209,
+      "y": 75.5673187560132,
+      "z": 1097.3678268266583,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&c&LPROTECCIONES"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.3,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "infoprote": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 869.1025359572194,
+      "y": 73.9782394357638,
+      "z": 1101.95936734406,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&A&lPROTECCIONES\n\n&fTodos los jugadores cuentan con una protección inicial, pero también puedes adquirir más en el NPC de la derecha.\n\n&fColoca el bloque de protección para proteger tu casa y evitar que otros jugadores puedan modificarla o quitártela.\n&fUna vez colocada, usa &e/cb menu &f y haz click en tu protección para acceder a toda la información y opciones.\n&c&l¡IMPORTANTE! &fPara eliminar una protección, hazlo desde el &epropio menu.\n-\n&f¿Tienes algún problema? No dudes en contactar con el &6&lSTAFF&f."
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.3,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "iniciacion": {
+      "enabled": true,
+      "dimension": "minecraft:overworld",
+      "x": 858.9130955269865,
+      "y": 74.0,
+      "z": 1059.6983726038886,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "&b&lBIENVENIDO &fA &C&lLATAM&F&lRUST\n\n&fUtiliza &e/spawn &fsiempre que quieras volver a este lugar.\nTambién tienes disponible &e/rtp &fcon el que podrás viajar a una ubicación aleatoria del mundo y comenzar tu aventura.\n\n&6&LCONSEJO: &fLee todos los NPC que encontrarás en el spawn. Te ayudarán a conocer:\nQué encontrarás en esta zona.\nDe qué trata el servidor.\nPara qué sirven los objetos que recibes al comenzar.\n\n&fMás adelante encontrarás la &eZona Info, &fdonde tendrás más información y podrás consultar las novedades más importantes del servidor.\n\n&e¡Mucha suerte, entranador!\n"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.2,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    },
+    "end_cerrado": {
+      "enabled": true,
+      "dimension": "minecraft:the_end",
+      "x": 230.69846682312047,
+      "y": 54.15760980339936,
+      "z": 148.1947397391932,
+      "viewDistance": 48.0,
+      "refreshIntervalSeconds": 5,
+      "lineSpacing": 0.28,
+      "lines": [
+        "<color:white><bold>New hologram</bold></color>"
+      ],
+      "display": {
+        "billboard": "center",
+        "alignment": "center",
+        "scale": 1.0,
+        "textShadow": false,
+        "backgroundColor": "#000000",
+        "backgroundOpacity": 0.0,
+        "textOpacity": 1.0,
+        "seeThrough": false,
+        "maxLineWidth": 200
+      },
+      "visibility": {
+        "mode": "all",
+        "negate": false,
+        "conditions": []
+      },
+      "interaction": {
+        "enabled": false,
+        "width": 1.0,
+        "height": 1.0,
+        "cooldownSeconds": 0,
+        "conditions": {
+          "mode": "all",
+          "negate": false,
+          "conditions": []
+        },
+        "onInteract": [],
+        "onAttack": []
+      }
+    }
+  }
+}

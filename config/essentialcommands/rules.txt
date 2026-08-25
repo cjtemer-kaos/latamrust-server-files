@@ -1,0 +1,45 @@
+§6§l=== COBBLEVERSE - Pokemon Adventure ===§r
+§7Server de Minecraft | Fabric 1.21.1 + Cobblemon
+§7IP: california-street.gl.joinmc.link:25565
+
+§e=== REGLAS ===
+§71. Respeta a los demás jugadores
+§72. No hagas griefing (destruir construcciones ajenas)
+§73. No uses hacks ni cheats
+§74. No spam en el chat
+§75. Usa los warps para teletransportarte
+§76. Respeta a los staff y admins
+
+§e=== COMANDOS ===
+§a/spawn §7- Volver al spawn
+§a/home §7- Ir a tu casa
+§a/sethome §7- Establecer casa
+§a/back §7- Volver al último lugar
+§a/tpa <jugador> §7- Pedir teletransporte
+§a/tpahere <jugador> §7- Pedir que vengan a ti
+§a/warp §7- Lista de warps disponibles
+§a/rules §7- Ver estas reglas
+§a/near §7- Ver jugadores cercanos
+§a/rtp §7- Teletransporte aleatorio
+§a/repair §7- Reparar items
+§a/top §7- Ir al tope del mundo
+§a/feed §7- Llenar hambre
+§a/heal §7- Curar salud
+
+§e=== RANGOS ===
+§c[ADMIN] §7- Administrador
+§b[BUILDER] §7- Constructor
+§6[STAFF+] §7- Staff+
+§9[STAFF] §7- Staff
+§a[VIP] §7- VIP
+
+§e=== TIENDA VIP ===
+§7Comprar en: §bhttps://latamrust.tebex.io/category/2241211
+§7VIPV 24hrs: $1.00 | VIPV 15 dias: $3.00
+§7VIP Mensual: $5.00 | VIP XX: $10.00
+§7VIP XXX: $20.00 | VIP Permanente: $50.00
+
+§e=== REDES SOCIALES ===
+§7Discord: §bhttps://discord.gg/cobbleverse
+§7Web: §bhttps://www.latamrust.com
+§7Tienda: §bhttps://latamrust.tebex.io

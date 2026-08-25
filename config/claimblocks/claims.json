@@ -1,0 +1,513 @@
+[
+  {
+    "name": "BenjyTreex-template5-fce4",
+    "owner": "9dfd6678-ceef-337f-93fb-8b342016b4be",
+    "centerBlock": {
+      "field_11175": -3409,
+      "field_11174": 62,
+      "field_11173": 2254
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": -3459,
+      "field_11174": -64,
+      "field_11173": 2204
+    },
+    "pos2": {
+      "field_11175": -3359,
+      "field_11174": 320,
+      "field_11173": 2304
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "SrJenko-template5-8afc",
+    "owner": "31ec31ca-9ad2-38bb-84f1-61420d6ea3f9",
+    "centerBlock": {
+      "field_11175": 8688,
+      "field_11174": 76,
+      "field_11173": 3735
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 8638,
+      "field_11174": -64,
+      "field_11173": 3685
+    },
+    "pos2": {
+      "field_11175": 8738,
+      "field_11174": 320,
+      "field_11173": 3785
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Jose-template5-69b0",
+    "owner": "808d89d9-080a-37df-8528-afe87669d840",
+    "centerBlock": {
+      "field_11175": 881,
+      "field_11174": 101,
+      "field_11173": 223
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 831,
+      "field_11174": -64,
+      "field_11173": 173
+    },
+    "pos2": {
+      "field_11175": 931,
+      "field_11174": 320,
+      "field_11173": 273
+    },
+    "flags": {},
+    "members": [],
+    "enterTitle": "§cJose House",
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "KenshiDJackson-template5-6059",
+    "owner": "cd367ca6-ac49-3719-9750-bf49270674a2",
+    "centerBlock": {
+      "field_11175": 1273,
+      "field_11174": 64,
+      "field_11173": 2450
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 1223,
+      "field_11174": -64,
+      "field_11173": 2400
+    },
+    "pos2": {
+      "field_11175": 1323,
+      "field_11174": 320,
+      "field_11173": 2500
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Chasca-template5-779b",
+    "owner": "776609fc-0e5d-3889-bd91-c2cb89996e07",
+    "centerBlock": {
+      "field_11175": -11806,
+      "field_11174": 71,
+      "field_11173": -2096
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": -11856,
+      "field_11174": -64,
+      "field_11173": -2146
+    },
+    "pos2": {
+      "field_11175": -11756,
+      "field_11174": 320,
+      "field_11173": -2046
+    },
+    "flags": {},
+    "members": [
+      "3638f537-ed65-388d-ab8b-ea67af9fc6af"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "KAOS__MCS-template5-eff7",
+    "owner": "6721f528-8de6-330b-9d7f-e7f0dd76476d",
+    "centerBlock": {
+      "field_11175": -11730,
+      "field_11174": 70,
+      "field_11173": -1972
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": -11780,
+      "field_11174": -64,
+      "field_11173": -2022
+    },
+    "pos2": {
+      "field_11175": -11680,
+      "field_11174": 320,
+      "field_11173": -1922
+    },
+    "flags": {},
+    "members": [
+      "89df9312-a0a4-34ba-b485-27b89d3ff97d"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Leftor_-template6-28bc",
+    "owner": "0287642c-d573-32c6-8381-2a04981096ec",
+    "centerBlock": {
+      "field_11175": 755,
+      "field_11174": 113,
+      "field_11173": 222
+    },
+    "stoneType": "template6",
+    "pos1": {
+      "field_11175": 680,
+      "field_11174": -64,
+      "field_11173": 147
+    },
+    "pos2": {
+      "field_11175": 830,
+      "field_11174": 320,
+      "field_11173": 297
+    },
+    "flags": {
+      "fire-spread": true,
+      "notify-enter-exit": false
+    },
+    "members": [
+      "808d89d9-080a-37df-8528-afe87669d840"
+    ],
+    "enterTitle": "§4§k||| §6§l§nLeftor_ Paradise §4§k|||",
+    "enterSubtitle": "§4§lBienvenidos",
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "KarlyPalma-template5-a555",
+    "owner": "231010b5-8965-37fc-b995-76437a48f15d",
+    "centerBlock": {
+      "field_11175": -782,
+      "field_11174": 113,
+      "field_11173": 791
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": -832,
+      "field_11174": -64,
+      "field_11173": 741
+    },
+    "pos2": {
+      "field_11175": -732,
+      "field_11174": 320,
+      "field_11173": 841
+    },
+    "flags": {},
+    "members": [
+      "31ec31ca-9ad2-38bb-84f1-61420d6ea3f9"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "eilex-template5-a960",
+    "owner": "83635d4c-e310-3093-917a-70e926685055",
+    "centerBlock": {
+      "field_11175": -3395,
+      "field_11174": 73,
+      "field_11173": -1554
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": -3445,
+      "field_11174": -64,
+      "field_11173": -1604
+    },
+    "pos2": {
+      "field_11175": -3345,
+      "field_11174": 320,
+      "field_11173": -1504
+    },
+    "flags": {},
+    "members": [
+      "808d89d9-080a-37df-8528-afe87669d840",
+      "e035c5b3-e825-3dae-a2be-f5d190a57b8d",
+      "0699582f-f3b6-3d12-a184-60fd4ad5494b"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "KAOS__MCS-template5-6ee2",
+    "owner": "6721f528-8de6-330b-9d7f-e7f0dd76476d",
+    "centerBlock": {
+      "field_11175": 843,
+      "field_11174": 69,
+      "field_11173": -20
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 793,
+      "field_11174": -64,
+      "field_11173": -70
+    },
+    "pos2": {
+      "field_11175": 893,
+      "field_11174": 320,
+      "field_11173": 30
+    },
+    "flags": {
+      "tnt-detonation": false,
+      "ender-pearls": false,
+      "fire-spread": false
+    },
+    "members": [
+      "89df9312-a0a4-34ba-b485-27b89d3ff97d"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "NaoriDZN_-template5-4560",
+    "owner": "71dfa362-62a2-3a24-9f59-2c3d9650ed9f",
+    "centerBlock": {
+      "field_11175": 18524,
+      "field_11174": 90,
+      "field_11173": 29770
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 18474,
+      "field_11174": -64,
+      "field_11173": 29720
+    },
+    "pos2": {
+      "field_11175": 18574,
+      "field_11174": 320,
+      "field_11173": 29820
+    },
+    "flags": {},
+    "members": [
+      "be89acea-67ad-3f35-8f84-356e033dcaaa"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Aiush2209-template5-553f",
+    "owner": "f5fa3233-03a2-30d0-9eb7-9dd51fe5196b",
+    "centerBlock": {
+      "field_11175": 1848,
+      "field_11174": 122,
+      "field_11173": 183
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 1798,
+      "field_11174": -64,
+      "field_11173": 133
+    },
+    "pos2": {
+      "field_11175": 1898,
+      "field_11174": 320,
+      "field_11173": 233
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Xulyeta-template5-a5d5",
+    "owner": "be89acea-67ad-3f35-8f84-356e033dcaaa",
+    "centerBlock": {
+      "field_11175": 18462,
+      "field_11174": 109,
+      "field_11173": 29962
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 18412,
+      "field_11174": -64,
+      "field_11173": 29912
+    },
+    "pos2": {
+      "field_11175": 18512,
+      "field_11174": 320,
+      "field_11173": 30012
+    },
+    "flags": {},
+    "members": [
+      "a8d54d04-0eed-3311-ad75-c5e77995103f",
+      "71dfa362-62a2-3a24-9f59-2c3d9650ed9f"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "KAOS__MCS-template5-f41b",
+    "owner": "6721f528-8de6-330b-9d7f-e7f0dd76476d",
+    "centerBlock": {
+      "field_11175": 9048,
+      "field_11174": 68,
+      "field_11173": 59
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 8998,
+      "field_11174": -64,
+      "field_11173": 9
+    },
+    "pos2": {
+      "field_11175": 9098,
+      "field_11174": 320,
+      "field_11173": 109
+    },
+    "flags": {},
+    "members": [
+      "89df9312-a0a4-34ba-b485-27b89d3ff97d"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "KAOS__MCS-template5-8bab",
+    "owner": "6721f528-8de6-330b-9d7f-e7f0dd76476d",
+    "centerBlock": {
+      "field_11175": 805,
+      "field_11174": 99,
+      "field_11173": -181
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 755,
+      "field_11174": -64,
+      "field_11173": -231
+    },
+    "pos2": {
+      "field_11175": 855,
+      "field_11174": 320,
+      "field_11173": -131
+    },
+    "flags": {},
+    "members": [
+      "89df9312-a0a4-34ba-b485-27b89d3ff97d"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Xulyeta-template5-033d",
+    "owner": "be89acea-67ad-3f35-8f84-356e033dcaaa",
+    "centerBlock": {
+      "field_11175": 18563,
+      "field_11174": 140,
+      "field_11173": 29958
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 18513,
+      "field_11174": -64,
+      "field_11173": 29908
+    },
+    "pos2": {
+      "field_11175": 18613,
+      "field_11174": 320,
+      "field_11173": 30008
+    },
+    "flags": {},
+    "members": [
+      "a8d54d04-0eed-3311-ad75-c5e77995103f",
+      "71dfa362-62a2-3a24-9f59-2c3d9650ed9f"
+    ],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "GaLeKs-template5-79d3",
+    "owner": "8b88423b-1628-3f4a-a84b-e02b6b121dfe",
+    "centerBlock": {
+      "field_11175": 1233,
+      "field_11174": 68,
+      "field_11173": 1775
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 1183,
+      "field_11174": -64,
+      "field_11173": 1725
+    },
+    "pos2": {
+      "field_11175": 1283,
+      "field_11174": 320,
+      "field_11173": 1825
+    },
+    "flags": {
+      "ender-pearls": false,
+      "fire-spread": false,
+      "block-break": false,
+      "tnt-detonation": false,
+      "block-place": false,
+      "notify-enter-exit": true
+    },
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Tinco05-template5-500a",
+    "owner": "89df9312-a0a4-34ba-b485-27b89d3ff97d",
+    "centerBlock": {
+      "field_11175": 907,
+      "field_11174": 63,
+      "field_11173": -157
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 857,
+      "field_11174": -64,
+      "field_11173": -207
+    },
+    "pos2": {
+      "field_11175": 957,
+      "field_11174": 320,
+      "field_11173": -107
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "JONYmcs-template1-a387",
+    "owner": "64c4cc50-929c-35d8-bb41-bcf6e45019ab",
+    "centerBlock": {
+      "field_11175": 881,
+      "field_11174": 60,
+      "field_11173": -533
+    },
+    "stoneType": "template1",
+    "pos1": {
+      "field_11175": 871,
+      "field_11174": -64,
+      "field_11173": -543
+    },
+    "pos2": {
+      "field_11175": 891,
+      "field_11174": 320,
+      "field_11173": -523
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "Lokres-template5-f19e",
+    "owner": "82842ed2-c56a-37e0-b6fc-7e3789aa78c9",
+    "centerBlock": {
+      "field_11175": 18363,
+      "field_11174": 95,
+      "field_11173": 29828
+    },
+    "stoneType": "template5",
+    "pos1": {
+      "field_11175": 18313,
+      "field_11174": -64,
+      "field_11173": 29778
+    },
+    "pos2": {
+      "field_11175": 18413,
+      "field_11174": 320,
+      "field_11173": 29878
+    },
+    "flags": {
+      "chest-access": true,
+      "block-break": false,
+      "tnt-detonation": false,
+      "invincibility": true,
+      "fire-spread": true,
+      "interact": true,
+      "block-place": false
+    },
+    "members": [],
+    "world": "minecraft:overworld"
+  }
+]

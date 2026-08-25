@@ -1,0 +1,92 @@
+{
+  "orderMode": {
+    "description": "The order in which messages are broadcast. Options: SEQUENTIAL, RANDOM",
+    "value": "SEQUENTIAL"
+  },
+  "globalEnable": {
+    "description": "Enable or disable global announcements in chat.",
+    "value": true
+  },
+  "headerAndFooter": {
+    "description": "Enable or disable the header and footer around global chat announcements.",
+    "value": true
+  },
+  "globalInterval": {
+    "description": "The interval in seconds between each global chat announcement.",
+    "value": 1800
+  },
+  "prefix": {
+    "description": "Prefix prepended to all announcement messages. Use {prefix} placeholder in messages to apply.",
+    "value": "&f&lLATAM&c&LRUST"
+  },
+  "header": {
+    "description": "The header message sent before a global announcement. Supports colors, gradients, bold, etc.",
+    "value": "<bold><gradient:#FF006E:#8338EC>&m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</gradient></bold>"
+  },
+  "footer": {
+    "description": "The footer message sent after a global announcement. Supports colors, gradients, bold, etc.",
+    "value": "<bold><gradient:#667EEA:#764BA2>&m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</gradient></bold>"
+  },
+  "sound": {
+    "description": "Sound to play for players when an announcement is made. E.g., 'minecraft:block.note_block.pling'. Leave empty for no sound.",
+    "value": ""
+  },
+  "globalMessages": {
+    "description": "List of messages to be broadcast in global chat. Supports colors, gradients, bold, italic, underline, etc.",
+    "value": [
+      "&e&l¡BIENVENIDO ENTRENADOR!\n&FRecuerda que puedes visitar &c/spawn &fpara descubrir toda la información del servidor. \n&e&¡Atrapa, explora y disfruta!",
+      "&6&l⚠ ¡SERVIDOR EN FASE BETA! ⚠\n&fRecuerda que pueden aparecer &eerrores o fallos&f. &7Si encuentras alguno o tienes cualquier duda, &fcomunícalo a un &c&lADMIN.\n&6¡Tu ayuda nos permite mejorar!",
+      "&5&l✦ ¿QUIERES VIAJAR DE DIMENSIÓN? ✦\n&fVe a &e/spawn &fy encontrarás los portales &7que te llevarán directamente al &cNether &7y al &5End&7.\n&6¡Prepárate para explorar nuevas dimensiones!",
+      "&b&l✦ ¡ÚNETE A NUESTRO DISCORD! ✦\n&f¿Quieres conocer más sobre el servidor?\n&7Noticias, eventos, novedades y mucho más.\n&b➜ https://discord.gg/AuEDpbF8B",
+      "&a&l✦ ¿QUIERES SER VIP? ✦\n&fMejora tu experiencia y consigue tu rango &7directamente desde nuestra tienda oficial.\n&6➜ https://latamrust.tebex.io/\n&a¡Apoya al servidor y disfruta de sus ventajas!"
+    ]
+  },
+  "actionbarEnable": {
+    "description": "Enable or disable announcements shown on the action bar.",
+    "value": true
+  },
+  "actionbarInterval": {
+    "description": "The interval in seconds between each action bar announcement.",
+    "value": 1800
+  },
+  "actionbarMessages": {
+    "description": "List of messages to be broadcast on the action bar. Supports colors, gradients, bold, italic, etc.",
+    "value": []
+  },
+  "titleEnable": {
+    "description": "Enable or disable announcements shown as a screen title.",
+    "value": true
+  },
+  "titleInterval": {
+    "description": "The interval in seconds between each title announcement.",
+    "value": 1800
+  },
+  "titleMessages": {
+    "description": "List of messages to be broadcast as a title. Separate title and subtitle with ' || '. Supports colors, gradients, bold, italic, etc.",
+    "value": []
+  },
+  "bossbarEnable": {
+    "description": "Enable or disable announcements shown as a temporary boss bar.",
+    "value": true
+  },
+  "bossbarInterval": {
+    "description": "The interval in seconds between each boss bar announcement.",
+    "value": 1200
+  },
+  "bossbarColor": {
+    "description": "Color of the boss bar. Options: BLUE, GREEN, PINK, PURPLE, RED, WHITE, YELLOW.",
+    "value": "PURPLE"
+  },
+  "bossbarTime": {
+    "description": "How long the boss bar should remain on screen, in seconds.",
+    "value": 10
+  },
+  "bossbarMessages": {
+    "description": "List of messages to be broadcast in a boss bar. Note: bossbars do not support click/hover actions. Supports colors, gradients, bold, italic, etc.",
+    "value": [
+      "&7Recuerda, puedes usar &c/spawn &7para más información.",
+      "&7Estas jugando... &c&lLATAM&F&LRUST &7... Disfruta la experiencia.",
+      "&7Recuerda, puedes usar &c/rtp &7para ir a un lugar aleatorio."
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "use_previous_position": true,
+  "release_position": {
+    "x": 100,
+    "y": 65,
+    "z": 100
+  },
+  "jail_position": {
+    "x": 732,
+    "y": 80,
+    "z": 1002
+  }
+}

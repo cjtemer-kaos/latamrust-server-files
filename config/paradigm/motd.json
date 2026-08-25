@@ -1,0 +1,25 @@
+{
+  "motdLines": [],
+  "iconEnabled": {
+    "description": "",
+    "value": true
+  },
+  "serverlistMotdEnabled": {
+    "description": "",
+    "value": true
+  },
+  "motds": {
+    "description": "",
+    "value": [
+      {
+        "icon": "random",
+        "line1": "&6✦ &f&lLATAM&c&lRUST &6✦ &b&lCOBBLEVERSE &6✦\n&f¡Tu aventura &bPokémon &fcomienza aquí!",
+        "line2": "",
+        "playerCount": {
+          "hoverText": "&a¡Entra!",
+          "showActualCount": true
+        }
+      }
+    ]
+  }
+}

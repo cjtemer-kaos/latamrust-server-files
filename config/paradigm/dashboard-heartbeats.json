@@ -1,0 +1,15 @@
+{
+  "default": {
+    "serverId": "default",
+    "networkId": "default",
+    "serverName": "Default Server",
+    "version": "2.3.0b",
+    "activeProvider": "sqlite",
+    "storageHealth": "available",
+    "dashboardEnabled": true,
+    "onlinePlayers": 2,
+    "moduleCount": 46,
+    "enabledModuleCount": 45,
+    "lastSeenMs": 1786639147622
+  }
+}

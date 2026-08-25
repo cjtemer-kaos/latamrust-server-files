@@ -1,0 +1,19 @@
+{
+  "hotThreshold": 12,
+  "warmThreshold": 6,
+  "activityDecayRate": 0.005,
+  "battleActivityBonus": 3.0,
+  "playerPresenceBonus": 20.0,
+  "maxEntitiesPerChunk": 16,
+  "budgetEnforcementInterval": 200,
+  "budgetOverflowStrategy": "MIGRATE_THEN_DESPAWN",
+  "migrationSearchRadius": 4,
+  "migrationTargetMinFreeSlots": 3,
+  "maxMigrationsPerPass": 4,
+  "migrationSelectionStrategy": "NEWEST_SPAWN",
+  "hotTickInterval": 1,
+  "warmTickInterval": 2,
+  "coldTickInterval": 5,
+  "heatmapScanInterval": 100,
+  "maxChunkScansPerTick": 50
+}

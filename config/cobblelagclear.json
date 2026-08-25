@@ -1,0 +1,30 @@
+{
+  "cleanupIntervalMinutes": 20,
+  "blockCropGrowth": false,
+  "messages": {
+    "warning10": {
+      "text": "[CobbleLagClear] Limpieza automática en {time}. Los Pokémon salvajes y objetos del suelo serán eliminados.",
+      "color": "#F2B400"
+    },
+    "warning5": {
+      "text": "[CobbleLagClear] Limpieza automática en {time}. Los Pokémon salvajes y objetos del suelo serán eliminados.",
+      "color": "#FFAA00"
+    },
+    "warning3": {
+      "text": "[CobbleLagClear] Limpieza automática en {time}. Los Pokémon salvajes y objetos del suelo serán eliminados.",
+      "color": "#FF8800"
+    },
+    "warning1": {
+      "text": "[CobbleLagClear] Limpieza automática en {time}. Los Pokémon salvajes y objetos del suelo serán eliminados.",
+      "color": "#FF5555"
+    },
+    "executed": {
+      "text": "[CobbleLagClear] Limpieza ejecutada. Los Pokémon salvajes elegibles y objetos del suelo han sido eliminados.",
+      "color": "#FF5555"
+    },
+    "manualExecuted": {
+      "text": "[CobbleLagClear] Limpieza manual completada. Los Pokémon salvajes elegibles y objetos del suelo han sido eliminados.",
+      "color": "#00D1FF"
+    }
+  }
+}

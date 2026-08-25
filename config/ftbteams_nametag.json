@@ -1,0 +1,14 @@
+{
+  "format": {
+    "prefixColor": "gold",
+    "prefixFormat": "\u00267[\u0026r{color}{team}{r}\u00267] \u0026r",
+    "bold": false,
+    "italic": false
+  },
+  "enabled": {
+    "nametag": true,
+    "tablist": true,
+    "chat": true,
+    "showAlone": false
+  }
+}

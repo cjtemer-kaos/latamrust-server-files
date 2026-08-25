@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ayuda",
+    "description": "Sends a greeting to the player.",
+    "permission": "example.custom.permissions",
+    "requirePermission": false,
+    "actions": [
+      {
+        "type": "message",
+        "text": [
+          "&7¿Tienes algún problema o duda? Puedes ir a &c/spawn &7y consultar la Zona Info, o preguntar directamente a cualquier miembro del &6&lSTAFF &7o &c&lADMIN&7."
+        ]
+      }
+    ]
+  }
+]

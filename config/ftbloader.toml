@@ -1,0 +1,8 @@
+library = true
+claims = true
+teams = true
+
+[versions]
+libraryVersion = "ftb-library-fabric-2101.1.28.jar"
+claimsVersion = "ftb-chunks-fabric-2101.1.13.jar"
+teamsVersion = "ftb-teams-fabric-2101.1.7.jar"

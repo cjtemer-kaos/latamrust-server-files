@@ -1,0 +1,80 @@
+[
+  {
+    "name": "discord",
+    "description": "Sends a greeting to the player.",
+    "permission": "example.custom.permissions",
+    "requirePermission": false,
+    "actions": [
+      {
+        "type": "message",
+        "text": [
+          "&b&7&b¡Únete a nuestro Discord, {player}! &7Mantente al día con todas las normas, novedades y noticias del servidor.  ",
+          "",
+          "&a¡Entra! https://discord.gg/AuEDpbF8B"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "vip",
+    "description": "Teleports the player to spawn.",
+    "permission": "example2.custom.permissions",
+    "requirePermission": false,
+    "actions": [
+      {
+        "type": "message",
+        "text": [
+          "&b¡Visita nuestra Tienda, &6{player}&b! &7Consigue rangos, objetos exclusivos y mucho más, mientras ayudas a que nuestra aventura siga creciendo. &c❤",
+          "",
+          "&a¡Entra! https://latamrust.tebex.io/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "cooldown_test",
+    "description": "A command with a 30-second cooldown.",
+    "permission": "paradigm.cooldown.test",
+    "requirePermission": false,
+    "actions": [
+      {
+        "type": "message",
+        "text": [
+          "&aYou successfully used the cooldown command!"
+        ]
+      }
+    ],
+    "cooldown_seconds": 30,
+    "cooldown_message": "&cThis command is on cooldown! Please wait &e{remaining_time} &cseconds."
+  },
+  {
+    "name": "altar_ritual",
+    "description": "A command that only works in a specific area.",
+    "permission": "paradigm.altar.use",
+    "requirePermission": false,
+    "actions": [
+      {
+        "type": "message",
+        "text": [
+          "&aYou have found the secret altar!"
+        ]
+      }
+    ],
+    "cooldown_seconds": 60,
+    "cooldown_message": "&cThe altar's magic needs time to recharge.",
+    "area_restriction": {
+      "world": "minecraft:overworld",
+      "corner1": [
+        0,
+        60,
+        0
+      ],
+      "corner2": [
+        10,
+        70,
+        10
+      ],
+      "restriction_message": "&cYou must be at the secret altar to use this command."
+    }
+  }
+]

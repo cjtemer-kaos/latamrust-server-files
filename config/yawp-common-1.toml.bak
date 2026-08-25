@@ -1,0 +1,27 @@
+["YetAnotherWorldProtector mod server configuration"]
+	#Permission for command blocks to execute mod commands
+	command_block_execution = true
+	#Minimum OP level to use mod commands.
+	# 0 -> everyone can use the commands.
+	# 1-4 -> OP with specific level can use the commands.
+	# 5 -> no operator can use the commands.
+	# Defaults to 4.
+	# Default: 4
+	# Range: 0 ~ 5
+	command_op_level = 4
+	#Defines whether info commands for regions can be used by every player.
+	allow_info_cmds = false
+	#Defines whether mod commands are disabled for non-OP players.
+	disable_cmd_for_non_op = true
+	#Defines whether OPs/permitted players are allowed to bypass flags set in regions.
+	op_bypass_flags = true
+	#Defines whether owners of parent regions have implicit ownership rights for child regions as well
+	hierarchy_ownership = true
+	#Defines whether teleport in and out of a region is allowed by everyone. Mostly useful when using something like Waystones inside of regions.
+	allow_region_tp = true
+	#Enable creation of RegionMarker by renaming a stick in an Anvil.
+	enable_marker_creation = true
+	#Player UUIDs with permission to use mod commands.
+	# Make sure to put the UUIDs in parentheses, just like a normal string.
+	# Example: players_with_permission = ["6721f528-8de6-330b-9d7f-e7f0dd76476d", "0ce8979d-0095-31ad-84fb-abc523d66a8e", "3d6e363e-47fa-36f4-ade2-0a3aae2835b1", "1080654b-c88c-31e2-9c15-c78874950e6e", "776609fc-0e5d-3889-bd91-c2cb89996e07", "049c6ff1-1e91-36da-a50f-957d10e860ce", "64c4cc50-929c-35d8-bb41-bcf6e45019ab", "808d89d9-080a-37df-8528-afe87669d840", "0699582f-f3b6-3d12-a184-60fd4ad5494b", "3638f537-ed65-388d-ab8b-ea67af9fc6af", "0287642c-d573-32c6-8381-2a04981096ec"]
+	players_with_permission = ["6721f528-8de6-330b-9d7f-e7f0dd76476d", "0ce8979d-0095-31ad-84fb-abc523d66a8e", "3d6e363e-47fa-36f4-ade2-0a3aae2835b1", "1080654b-c88c-31e2-9c15-c78874950e6e", "776609fc-0e5d-3889-bd91-c2cb89996e07", "049c6ff1-1e91-36da-a50f-957d10e860ce", "64c4cc50-929c-35d8-bb41-bcf6e45019ab", "808d89d9-080a-37df-8528-afe87669d840", "0699582f-f3b6-3d12-a184-60fd4ad5494b", "3638f537-ed65-388d-ab8b-ea67af9fc6af", "0287642c-d573-32c6-8381-2a04981096ec"]

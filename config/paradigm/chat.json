@@ -1,0 +1,58 @@
+{
+  "enableStaffChat": {
+    "description": "Enables or disables the entire Staff Chat module.",
+    "value": true
+  },
+  "staffChatFormat": {
+    "description": "The format for messages in staff chat. %s is for the player's name, the second %s is for the message.",
+    "value": "&f&lLATAM&c&lSTAFF &b%s &7» &d%s"
+  },
+  "enableStaffBossBar": {
+    "description": "Shows a boss bar at the top of the screen when a staff member has staff chat toggled on.",
+    "value": true
+  },
+  "enablePrivateMessages": {
+    "description": "Enables or disables private messages via /msg and /reply.",
+    "value": true
+  },
+  "privateMessageToFormat": {
+    "description": "Format for private message feedback to the sender. First %s is target player name, second %s is the message.",
+    "value": "&9&l[MSG] &3%s &9» &7%s"
+  },
+  "privateMessageFromFormat": {
+    "description": "Format for private message received by target. First %s is sender player name, second %s is the message.",
+    "value": "&9&l[MSG] &3%s &9» &7%s"
+  },
+  "enableGroupChat": {
+    "description": "Enables or disables the Group Chat feature and its commands.",
+    "value": true
+  },
+  "enableJoinLeaveMessages": {
+    "description": "Enables or disables custom join and leave messages.",
+    "value": true
+  },
+  "joinMessageFormat": {
+    "description": "The format for join messages. Placeholders: {player_name}, {player_uuid}, {player_level}, {player_health}, {max_player_health}.",
+    "value": "&7(&a+&7) {prefix}&f{player_name} &7ha entrado al servidor."
+  },
+  "leaveMessageFormat": {
+    "description": "The format for leave messages. Placeholders: {player_name}, {player_uuid}, {player_level}, {player_health}, {max_player_health}.",
+    "value": "&7(&c-&7) &f{player_name} &7abandonó el servidor."
+  },
+  "enableFirstJoinMessage": {
+    "description": "Enables a special message for a player's very first join.",
+    "value": true
+  },
+  "firstJoinMessageFormat": {
+    "description": "The format for the first join message. Same placeholders as regular join.",
+    "value": "&f¡&c&LBIENVENIDO&f, &a{player_name}, &fa &f&lLATAM&c&lRUST&f!"
+  },
+  "enableCustomChatFormat": {
+    "description": "Enables custom chat message formatting. When enabled, all chat messages use the customChatFormat.",
+    "value": false
+  },
+  "customChatFormat": {
+    "description": "Custom chat message format. Supports TAG formatting and placeholders: {player_name}, {player_uuid}, {player_level}, {player_prefix}, {player_suffix}, {player_group}, {player_groups}, {prefix}, {suffix}, {group}, {player_health}, {max_player_health}. Use {message} for the chat text. Note: to preserve colors from permission prefix/suffix, do not wrap {prefix}/{suffix} in an outer color tag.",
+    "value": "{prefix}<rainbow>{player_name}</rainbow> <color:dark_gray>»</color> <color:white>{message}</color>"
+  }
+}

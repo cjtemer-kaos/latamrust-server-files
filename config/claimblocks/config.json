@@ -1,0 +1,9 @@
+{
+  "template5": {
+    "radius_x": 50,
+    "radius_z": 50,
+    "head_info": "Diamond Block texture from minecraft-heads.com",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk0NWUxMjdlMmUxMWY3NGU5ZjBhNGY1OTg2NzU4ZjlmMmZlOGNlODEwZTYyOGY5YzI1YjkxNWJiMmQzYjhmOSJ9fX0",
+    "display_name": "&b&lClaim de Diamante &f- &550×50"
+  }
+}

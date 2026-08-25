@@ -1,0 +1,22 @@
+{
+  "config_name": "LatamRust",
+  "update_tick_time": 100,
+  "page_change": 5,
+  "title_change": 100,
+  "scroll_speed": 1,
+  "scroll_loop": false,
+  "title": [
+    "<b><#ffcc33>LATAMRUST"
+  ],
+  "lines": [
+    "",
+    "<gray>» <white>Jugadores:",
+    "<gray> ▪ <yellow>%server:online%</yellow>/<orange>%server:max_players%",
+    "",
+    "<gray>» <white>TPS:",
+    "<gray> ▪ <green>%server:tps%",
+    "",
+    "<gray>» <white>Web:",
+    "<gray> ▪ <aqua>latamrust.com"
+  ]
+}
